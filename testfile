@@ -1,0 +1,7 @@
+Hallo, ich bin ein Test
+
+// schreibe mir eine main Methode, die "Hello World ausgibt"
+public static void main(String[] args) {
+    System.out.println("Hello World");
+}
+
