@@ -1,1 +1,3 @@
 # testZurKlausur
+
+initiale Eingabe
